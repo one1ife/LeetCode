@@ -1,17 +1,15 @@
 /**
  * @Author Jacky Zou
- * @Date 2023/1/7 9:22
+ * @Date 2024/3/6 10:25
  * @Version 1.0
  */
-import java.util.List;
-
 public class test {
     public static void main(String[] args) {
 
     }
-}
-class Solution {
-    public List<String> restoreIpAddresses(String s) {
+
+
+    public int findKOr(int[] nums, int k) {
 
     }
 }

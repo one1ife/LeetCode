@@ -8,7 +8,7 @@
 
 //1.按位求和
 //2.进位
-public class test {
+public class  test {
     public static void main(String[] args) {
 
     }
