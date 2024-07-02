@@ -9,6 +9,6 @@ public class test {
     }
 
     public int[] minOperations(String boxes) {
-
+        return null;
     }
 }
